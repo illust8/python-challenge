@@ -3,7 +3,7 @@ import os
 #  Reading the CSV file
 import csv
 # Set path for file
-Input_file = budget_data.csv= os.path.join('.', 'Resources', 'budget_data.csv.py')
+Input_file = budget_data.csv= os.path.join('.', 'Resources', 'budget_data.csv.py') <-- Still giving me an issue  
 
 # Creating list to store data 
 budget_data = []
